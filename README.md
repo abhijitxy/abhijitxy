@@ -1,7 +1,5 @@
 ###                                                      Hi there 👋
- <a href="https://twitter.com/Abhijitroy_dev" class="mx-1 sm:mx-5"
- ><img src="https://img.icons8.com/ios-glyphs/60/000000/twitter--v1.png" class="w-9/12"
- /></a>
+
 <!--
 **Abhijit20112003/Abhijit20112003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
