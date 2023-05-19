@@ -1,7 +1,7 @@
 ###                                                      Hi! there 👋
 
 ### [Connect with me 💬](https://twitter.com/Abhijitroy_dev) 
-
+I'm a self-taught full stack developer from India
 # Some info about me:
  
 - 📚 I'm a freshman studying Computer Science Major
