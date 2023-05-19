@@ -7,4 +7,4 @@
 - 🛠 I'm currently developing automated arbitrage and momentum-based cryptocurrency trading systems
 - 🏢 I'm open to fall 2021 internship opportunities
 - 👨🏻‍💻 You can find most of my projects here on GitHub
-- 📫 You can reach me at
+- 📫 You can reach me at [Gmail](roya51788@gmail.com)
