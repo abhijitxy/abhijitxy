@@ -9,4 +9,4 @@ I'm a self-taught full stack developer from India
 - 🛠 I'm currently developing automated arbitrage and momentum-based cryptocurrency trading systems
 - 🏢 I'm open to fall 2023 internship opportunities
 - 👨🏻‍💻 You can find most of my projects here on GitHub
-- 📫 You can reach me at [Gmail](gmail.com/roya51788@gmail.com)
+- 📫 You can reach me at [roya51788@gmail.com](roya51788@gmail.com)
