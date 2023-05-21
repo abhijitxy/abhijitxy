@@ -10,3 +10,5 @@ I'm a self-taught full stack developer from India
 - 🏢 I'm open to fall 2023 internship opportunities
 - 👨🏻‍💻 You can find most of my projects here on GitHub
 - 📫 You can reach me at [roya51788@gmail.com](mailto:roya51788@gmail.com)
+
+[![profile views](https://komarev.com/ghpvc/?username=Abhijit20112003&style=flat-square&color=blue)][github link]
