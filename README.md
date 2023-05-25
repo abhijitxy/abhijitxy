@@ -5,7 +5,7 @@ I'm a self-taught full stack developer from India
 # Some info about me:
  
 - 📚 I'm a freshman studying Computer Science Major
-- 🚀 I'm currently focused on fullstack web development with Node.js, Express.js, React and MySql
+- 🚀 I'm currently focused on fullstack web development with Next.js, Node.js, Express.js, React and MySql
 - 🛠 I'm currently developing automated arbitrage and momentum-based cryptocurrency trading systems
 - 🏢 I'm open to fall 2023 internship opportunities
 - 👨🏻‍💻 You can find most of my projects here on GitHub
