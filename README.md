@@ -1,6 +1,5 @@
 ###                                                      Hi! there 👋
 
-### [Connect with me 💬](https://twitter.com/Abhijitroy_dev) 
 # Some info about me:
  
 - 📚 I'm a freshman studying Computer Science Major
